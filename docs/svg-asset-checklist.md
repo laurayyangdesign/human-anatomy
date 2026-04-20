@@ -8,10 +8,8 @@ Mark each as done when the SVG is created, reviewed, and placed in the correct d
 ```
 svg/
 ├── full-body/
-│   ├── male-front.svg
-│   ├── male-back.svg
-│   ├── female-front.svg
-│   └── female-back.svg
+│   ├── body-front.svg
+│   └── body-back.svg
 └── parts/
     ├── head-neck/
     │   ├── head-neck-front.svg
@@ -33,14 +31,12 @@ svg/
 
 ---
 
-## Layer 1: Full Body (4 SVGs)
+## Layer 1: Full Body (2 SVGs)
 
 | # | File | Description | Status |
 |---|------|-------------|--------|
-| 1 | `full-body/male-front.svg` | Male full body, front view, ~10-12 major clickable regions | [ ] |
-| 2 | `full-body/male-back.svg` | Male full body, back view, ~10-12 major clickable regions | [ ] |
-| 3 | `full-body/female-front.svg` | Female full body, front view, ~10-12 major clickable regions | [ ] |
-| 4 | `full-body/female-back.svg` | Female full body, back view, ~10-12 major clickable regions | [ ] |
+| 1 | `full-body/body-front.svg` | Full body, front view, ~10-12 major clickable regions | [ ] |
+| 2 | `full-body/body-back.svg` | Full body, back view, ~10-12 major clickable regions | [ ] |
 
 ## Layer 2: Zoomed Body Parts
 
@@ -183,7 +179,7 @@ svg/
 
 | Category | Count | Done |
 |----------|-------|------|
-| Full Body (Layer 1) | 4 | 0 |
+| Full Body (Layer 1) | 2 | 0 |
 | Head & Neck | 3 | 0 |
 | Chest | 1 | 0 |
 | Abdomen | 1 | 0 |
@@ -195,7 +191,7 @@ svg/
 | Hips (L+R) | 6 | 0 |
 | Legs (L+R) | 8 | 0 |
 | Feet (L+R) | 8 | 0 |
-| **Total** | **52** | **0** |
+| **Total** | **50** | **0** |
 
 ## Tips for AI SVG Generation
 

@@ -13,7 +13,7 @@ Build a foundational, reusable anatomical body map library for clinical/therapeu
 - Two detail modes: simple (clients, fewer/larger zones per body part) and detailed (therapists, more granular zones with muscle/bone specificity)
 - Severity selection popover (mild/moderate/severe) with color coding
 - Multi-select across body parts
-- Gender variants (male/female/neutral)
+- Single gender model (additional gender variants deferred to future)
 - Published as npm packages
 
 ### Out of Scope (Future)
